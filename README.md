@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fiqro Najiah</h1>
 <h3 align="center">A Professional Fullstack Web Developer From Indonesia</h3>
-
-<div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/7J4P7cUur2DlErijp3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/manny-manny404-mannynotfound-7J4P7cUur2DlErijp3">via GIPHY</a></p>
-
+<img align="right" alt="coding" width="400" src="https://tenor.com/view/xd-programming-gif-23473924"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=escapescode&label=Profile%20views&color=0e75b6&style=flat" alt="escapescode" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=escapescode" alt="escapescode" /></a> </p>
